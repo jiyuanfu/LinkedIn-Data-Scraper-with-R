@@ -32,6 +32,7 @@ Run the codes and view the result in environment
 Download the neccessary files.
 Input java -Dwebdriver.chrome.driver=D:\Chromedriver.exe -jar D:\selenium-server-standalone-3.141.59.jar on your CMD
 ![1637637152(1)](https://user-images.githubusercontent.com/59487206/142966111-1fa743e5-84b8-480a-ab14-841fecab3586.png)
+
 The Selenium server is running on **port 4444**
 Open the server.r and ui.r in local IDE and click the buttom "Run App"
 Input your LinkedIn username and password, the skills you are looking for and how many candidates you want to find
